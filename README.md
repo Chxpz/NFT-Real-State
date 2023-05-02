@@ -1,14 +1,5 @@
-# Sample Hardhat Project
-
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.ts
-```
 # NFT-Real-State
+
+1 - Clone this repo
+2 - npm i to install the dependencies
+3 - As a hardhat project run npx hardhat test to run the tests
